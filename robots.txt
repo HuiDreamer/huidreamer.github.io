@@ -1,0 +1,68 @@
+User-agent:Mediapartners-Google
+Allow:/
+User-agent:Googlebot
+Allow:/
+User-agent:Googlebot-Mobile
+Allow:/
+User-agent:Googlebot-Image
+Allow:/
+User-agent:Googlespider
+Allow:/
+User-agent:AdsBot-Google-Mobile
+Allow:/
+User-agent:AdsBot-Google
+Allow:/
+User-agent:Baiduspider
+Allow:/
+
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: YisouSpider
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SemrushBot-SI
+Disallow: /
+User-agent: SemrushBot-SWA
+Disallow: /
+User-agent: SemrushBot-CT
+Disallow: /
+User-agent: SemrushBot-BM
+Disallow: /
+User-agent: SemrushBot-SEOAB
+Disallow: /
+user-agent: AhrefsBot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: Uptimebot
+Disallow: /
+User-agent: MegaIndex.ru
+Disallow: /
+User-agent: ZoominfoBot
+Disallow: /
+User-agent: Mail.Ru
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: ExtLinksBot
+Disallow: /
+User-agent: aiHitBot
+Disallow: /
+User-agent: Researchscan
+Disallow: /
+User-agent: DnyzBot
+Disallow: /
+User-agent: spbot
+Disallow: /
+
+User-agent: *
+Allow:/
+
+Sitemap: https://www.neosey.com/sitemap.xml
